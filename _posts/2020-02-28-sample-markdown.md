@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
+title: con meof co
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 tags: [test]
