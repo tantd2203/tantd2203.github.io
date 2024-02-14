@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: DailyWithTan :D test
+title: DailyWithTan
 
 # Your name to show in the footer
 author: Trần Duy Tân
@@ -55,7 +55,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: _dailyw.tdt_
+  instagram: _dailyw.tdt_
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
