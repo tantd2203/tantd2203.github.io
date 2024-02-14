@@ -49,18 +49,14 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  github: tantd2203
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: tran-duy-tan-679954235
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: _dailyw.tdt_
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -95,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "tantd2203.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
